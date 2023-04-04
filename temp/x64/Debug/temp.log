@@ -1,0 +1,4 @@
+﻿  temp.cpp
+D:\VS projects\C++\temp\temp.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS projects\C++\temp\temp.cpp(47): warning C4715: 'isthere': not all control paths return a value
+  temp.vcxproj -> D:\VS projects\C++\temp\x64\Debug\temp.exe
